@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/ipt10-strapi",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Ipt10Strapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcuszz",
+            "email": "marcuzcalaguas@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
